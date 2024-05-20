@@ -1,0 +1,7 @@
+#id: 1
+#mode: dir
+#path: C:/Users/Senya/Downloads/test
+
+#id: 2
+#mode: files
+#path: C:/Users/Senya/Downloads/test/1.txt, C:/Users/Senya/Downloads/test/2.txt, C:/Users/Senya/Downloads/test/3.txt
